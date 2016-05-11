@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">ProjetoCrudContato</string>
+    <string name="app_name">Cadastro</string>
+    <string name="adicionar"><![CDATA[+ Adicionar]]></string>
+    <string name="telefone">Telefone</string>
+    <string name="nome">Nome</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="lt_cancelar"><![CDATA[x cancelar]]></string>
 </resources>
